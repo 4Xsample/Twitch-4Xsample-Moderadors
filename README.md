@@ -41,32 +41,53 @@ Algunes d'aquestes recompenses es poden disfrutar mes plenament si els espectado
 Tinc algunes comandes per espamejar.
 
     "!discord" Posa el text de spam al servidor de discord.
+
     "!rewards" Posa el text de spam per les recompenses de canal.
+
     "!subs" Posa el text de spam per promocionar les comandes de xat per subscriptors
 
 Despres tens tota la col·lecció de comandes que he afegit al Servei.
 
     “!nomeplores” es la resposta per defecte a tot troll que entri a plorar pel castellà o vulgui atacar el català.
+
     “!start” amb això arrenquem el directe. Nomes el farèm servir per streams IRL.“!stop” ens serveix per aturar el directe, per si despres de fer raid no he recordat que havia de parar l’stream (i l’has d’usar avisam despres per que hauré de cambiar manualment el now a twitter).“!pc” per cambiar a la escena d’stream principal per fer streams de PC.
+
     “!xbox” per cambiar a la escena d’stream principal per fer streams de Xbox.“!xerrada” Per cambiar a la escena de xerrar amb la gent per si em poso a rajar i tinc el joc parat o algo i no m’adono que hauria de cambiar.
-    “!brb” posa la escena be right back per si haig de deixar l’stream per un moment.“!bye” per posar la escena de despedida amb els credits I tota la pesc
+
+    “!brb” posa la escena be right back per si haig de deixar l’stream per un moment.
+    
+    “!bye” per posar la escena de despedida amb els credits I tota la pesca.
+
     “!irl1” escena per streams IRL amb una sola camera.
+
     “!irl2” escena per streams IRL amb dues càmeres.
+    
     “!irl3” escena per streams IRL amb les dues càmeres al reves.
+    
     “!panic” Activa el mode de protecció per casos de raids massives d’odi.
+    
     “!unpanic” Desactiva el mode de protecció per casos de raids massives d’odi.
 
 Per acabar aquí tens una llista dels comandes generiques que pots executar al xat de qualsevol canal que moderis.
 
     “/block nomdusuari” “/unblock nomdusuari” Bloqueiges a nomdusuari de tenir qualsevol interacció amb mi.
+    
     “/ban nomdusuari” “/unban nomdusuari” del xat del canal a nomdusuari.
+    
     “/clear” Neteja l’historial del xat.
+    
     “/emoteonly” “/emoteonlyoff” Restringeix el xat a nomes emoticones.
+    
     “/followers numero” “/followersoff” Restringeix el xat a nomes seguidors de fa mes de tants dies com el numero.
+    
     “/host alguncanal” “/unhost” el host cap alguncanal que estigui en directe ara mateix (encara que jo no estigui en directe).
+    
     “/raid alguncanal” “/unraid” Inicies una raid cap a alguncanal.
+    
     “/slow numero” “/slowoff” que els usuaris nomes puguin enviar un missatge cada numero segons.
+    
     “/timeout algunusuari numero” “/untimeout algunusuari” Expulsa temporalment a algunusuari durant numero segons.
+    
     “/uniquechat” “/uniquechatoff” Evita que els espectadors puguin  enviar mes d’un cop el mateix missatge.
 
 
