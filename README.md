@@ -38,6 +38,6 @@ Com a sub del canal tens una colla de comandes a la teva disposició que et perm
 
     "!004" Llicencia per manquejar.
 
-Si ets usuari de [StreamDeck](https://www.elgato.com/es/stream-deck) de [elgato](www.elgato.com) i tens instalat el plugin [twitch tools](https://github.com/BarRaider/streamdeck-chatpager) de [BarRaider](https://barraider.com) pots descarregar [el perfil](https://github.com/4Xsample/Twitch-4Xsample-Subscriptors/blob/main/Subs%204Xsample.streamDeckProfile) que he creat per subscriptors.
+Si ets usuari de [StreamDeck](https://www.elgato.com/es/stream-deck) de [elgato](www.elgato.com) i tens instalat el plugin [twitch tools](https://github.com/BarRaider/streamdeck-chatpager) de [BarRaider](https://barraider.com) pots descarregar [el perfil](https://github.com/4Xsample/Twitch-4Xsample-Moderadors/blob/main/Mod%204Xsample.streamDeckProfile) que he creat per Moderadors.
 
 Pots uar-lo directament o pots copiar la unica carpeta cap al teu perfil principal.
