@@ -10,12 +10,9 @@
 # Twitch-4Xsample
 ## Material adicional per subscriptors del canal [twitch.tv/4xsample](http://www.twitch.tv/4Xsample).
 
-Primer de tot, vull agrair-te el teu suport als meus directes i dir-te que m’animen moltissim aquestes coses.
+Ja que et faig currar com a moderador al meu canal deixa’m donar-te les eines per poder-ho fer fàcil.
 
-Si tens el teu usuari de discord vinculat a twitch se t’assigna automàticament rol [al meu servidor](https://discord.gg/ahVq54p).
-
-Com a sub del canal tens una colla de comandes a la teva disposició que et permetran gaudir de la majoria de recompenses sense haver de gastar punts de canal:
-
+Primer de tot, nomes per ser moderador, tens acces a totes les comandes per subscriptor i em va be que les usis per que així serveix d’exemple per que es vegin aquests aventatges.
     “!cartes” et permet fer una tirada de cartes del “A cagar a la via”
 
     “!parla *” Fa que l’assistent digital llegeixi el text que escriguis en el lloc del * en veu alta.
