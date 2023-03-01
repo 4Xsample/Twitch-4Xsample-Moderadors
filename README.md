@@ -32,9 +32,8 @@ Primer de tot, nomes per ser moderador, tens acces a totes les comandes per subs
 
     “!nervios” Posa el so del meu cor en directe durant 3 minuts per saber si estic nerviós o no.
 
-    "!004" Llicencia per manquejar.
 
-Algunes d'aquestes recompenses es poden disfrutar mes plenament si els espectadors estan [al meu servidor de discord](https://discord.gg/ahVq54p) aixi que tb en faig promoció sovint.
+Algunes d'aquestes recompenses es poden disfrutar mes plenament si els espectadors estan [al meu servidor de discord](https://discord.4Xsample.cat) aixi que tb en faig promoció sovint.
 
 Tinc algunes comandes per espamejar.
 
@@ -55,20 +54,12 @@ Despres tens tota la col·lecció de comandes que he afegit al Servei.
     “!brb” posa la escena be right back per si haig de deixar l’stream per un moment.
     
     “!bye” per posar la escena de despedida amb els credits I tota la pesca.
-
-    “!irl1” escena per streams IRL amb una sola camera.
-
-    “!irl2” escena per streams IRL amb dues càmeres.
-    
-    “!irl3” escena per streams IRL amb les dues càmeres al reves.
     
     “!panic” Activa el mode de protecció per casos de raids massives d’odi.
     
     “!unpanic” Desactiva el mode de protecció per casos de raids massives d’odi.
 
 Per acabar aquí tens una llista dels comandes generiques que pots executar al xat de qualsevol canal que moderis.
-
-    “/block nomdusuari” “/unblock nomdusuari” Bloqueiges a nomdusuari de tenir qualsevol interacció amb mi.
     
     “/ban nomdusuari” “/unban nomdusuari” del xat del canal a nomdusuari.
     
@@ -77,8 +68,6 @@ Per acabar aquí tens una llista dels comandes generiques que pots executar al x
     “/emoteonly” “/emoteonlyoff” Restringeix el xat a nomes emoticones.
     
     “/followers numero” “/followersoff” Restringeix el xat a nomes seguidors de fa mes de tants dies com el numero.
-    
-    “/host alguncanal” “/unhost” el host cap alguncanal que estigui en directe ara mateix (encara que jo no estigui en directe).
     
     “/raid alguncanal” “/unraid” Inicies una raid cap a alguncanal.
     
